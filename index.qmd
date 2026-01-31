@@ -1,0 +1,29 @@
+---
+title: "Home"
+---
+
+## Hi — I’m Alec.
+
+I’m a computer science student focused on **machine learning systems, representation learning, and applied research**.
+
+My interests sit at the intersection of:
+- ML & statistical modeling
+- systems (performance, scalability, infrastructure)
+- real-world deployment constraints
+
+I’m currently:
+- working on research projects in ML and data-intensive systems  
+- building long-horizon technical artifacts (code, papers, tools)  
+- preparing for graduate-level research or frontier industry labs  
+
+You can find my work below.
+
+---
+
+### Current Focus
+- Robust representation learning under distribution shift  
+- ML systems efficiency (training + inference)  
+- Research-quality software engineering  
+
+If you’d like to chat, feel free to reach out via email or GitHub.
+

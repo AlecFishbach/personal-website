@@ -1,0 +1,29 @@
+---
+title: "Research"
+---
+
+## Research Interests
+
+- Representation learning and generalization
+- Learning under dataset shift and rare events
+- ML systems and efficient training pipelines
+
+---
+
+## Works in Progress
+
+### Crowd Dynamics Modeling (2025–)
+**Status:** In progress  
+- Studying model behavior under heterogeneous density distributions  
+- Exploring loss functions and representation invariance  
+- Synthetic data augmentation for rare regimes  
+
+*(Preprint forthcoming)*
+
+---
+
+## Prior Work
+
+> Add papers, workshops, posters, or serious class projects here.  
+Even strong course projects count if written well.
+

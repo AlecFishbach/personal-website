@@ -1,0 +1,12 @@
+---
+title: "Writing"
+---
+
+## Notes & Essays
+
+- *What Models Learn from Homogeneous vs Heterogeneous Data*
+- *Why ML Systems Knowledge Compounds Faster Than Pure Modeling*
+- *On Representation, Signal, and Generalization*
+
+Short technical essays, research notes, and reflections.
+

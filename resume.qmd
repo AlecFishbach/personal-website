@@ -1,0 +1,18 @@
+---
+title: "Curriculum Vitae"
+---
+
+## Education
+**Arizona State University**  
+B.S. Computer Science (Honors)
+
+## Research Experience
+- ML research projects in applied modeling and systems
+
+## Skills
+- Python, PyTorch, SQL
+- Linux, performance profiling
+- Statistical modeling
+
+*(PDF CV link coming soon)*
+

@@ -1,0 +1,18 @@
+---
+title: "Projects"
+---
+
+## Selected Projects
+
+### Predictive Crowd Flow System
+- Multi-camera CV pipeline for density estimation
+- Focus on scalability and inference efficiency
+- Built with PyTorch and custom evaluation tooling
+
+### Systems & ML Experiments
+- Custom training loops and evaluation harnesses
+- Experiments on loss shaping and data regimes
+- Performance profiling and optimization
+
+(GitHub links available on request / profile)
+

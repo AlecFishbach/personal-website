@@ -1,0 +1,33 @@
+project:
+  type: website
+
+website:
+  title: "Alec Fishbach"
+  description: "Research, systems, and machine learning"
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: projects.qmd
+        text: Projects
+      - href: writing.qmd
+        text: Writing
+      - href: cv.qmd
+        text: CV
+  page-footer:
+    left: "© 2026 Alec Fishbach"
+    right:
+      - icon: github
+        href: https://github.com/YOUR_GITHUB
+      - icon: twitter
+        href: https://twitter.com/YOUR_HANDLE
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    smooth-scroll: true
+
