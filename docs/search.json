@@ -1,0 +1,100 @@
+[
+  {
+    "objectID": "writing.html",
+    "href": "writing.html",
+    "title": "Writing",
+    "section": "",
+    "text": "What Models Learn from Homogeneous vs Heterogeneous Data\nWhy ML Systems Knowledge Compounds Faster Than Pure Modeling\nOn Representation, Signal, and Generalization\n\nShort technical essays, research notes, and reflections."
+  },
+  {
+    "objectID": "writing.html#notes-essays",
+    "href": "writing.html#notes-essays",
+    "title": "Writing",
+    "section": "",
+    "text": "What Models Learn from Homogeneous vs Heterogeneous Data\nWhy ML Systems Knowledge Compounds Faster Than Pure Modeling\nOn Representation, Signal, and Generalization\n\nShort technical essays, research notes, and reflections."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Multi-camera CV pipeline for density estimation\nFocus on scalability and inference efficiency\nBuilt with PyTorch and custom evaluation tooling\n\n\n\n\n\nCustom training loops and evaluation harnesses\nExperiments on loss shaping and data regimes\nPerformance profiling and optimization\n\n(GitHub links available on request / profile)"
+  },
+  {
+    "objectID": "projects.html#selected-projects",
+    "href": "projects.html#selected-projects",
+    "title": "Projects",
+    "section": "",
+    "text": "Multi-camera CV pipeline for density estimation\nFocus on scalability and inference efficiency\nBuilt with PyTorch and custom evaluation tooling\n\n\n\n\n\nCustom training loops and evaluation harnesses\nExperiments on loss shaping and data regimes\nPerformance profiling and optimization\n\n(GitHub links available on request / profile)"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Representation learning and generalization\nLearning under dataset shift and rare events\nML systems and efficient training pipelines"
+  },
+  {
+    "objectID": "research.html#research-interests",
+    "href": "research.html#research-interests",
+    "title": "Research",
+    "section": "",
+    "text": "Representation learning and generalization\nLearning under dataset shift and rare events\nML systems and efficient training pipelines"
+  },
+  {
+    "objectID": "research.html#works-in-progress",
+    "href": "research.html#works-in-progress",
+    "title": "Research",
+    "section": "Works in Progress",
+    "text": "Works in Progress\n\nCrowd Dynamics Modeling (2025–)\nStatus: In progress\n- Studying model behavior under heterogeneous density distributions\n- Exploring loss functions and representation invariance\n- Synthetic data augmentation for rare regimes\n(Preprint forthcoming)"
+  },
+  {
+    "objectID": "research.html#prior-work",
+    "href": "research.html#prior-work",
+    "title": "Research",
+    "section": "Prior Work",
+    "text": "Prior Work\n\nAdd papers, workshops, posters, or serious class projects here.\nEven strong course projects count if written well."
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Arizona State University\nB.S. Computer Science (Honors)"
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Arizona State University\nB.S. Computer Science (Honors)"
+  },
+  {
+    "objectID": "resume.html#research-experience",
+    "href": "resume.html#research-experience",
+    "title": "Curriculum Vitae",
+    "section": "Research Experience",
+    "text": "Research Experience\n\nML research projects in applied modeling and systems"
+  },
+  {
+    "objectID": "resume.html#skills",
+    "href": "resume.html#skills",
+    "title": "Curriculum Vitae",
+    "section": "Skills",
+    "text": "Skills\n\nPython, PyTorch, SQL\nLinux, performance profiling\nStatistical modeling\n\n(PDF CV link coming soon)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "I’m a computer science student focused on machine learning systems, representation learning, and applied research.\nMy interests sit at the intersection of: - ML & statistical modeling - systems (performance, scalability, infrastructure) - real-world deployment constraints\nI’m currently: - working on research projects in ML and data-intensive systems\n- building long-horizon technical artifacts (code, papers, tools)\n- preparing for graduate-level research or frontier industry labs\nYou can find my work below.\n\n\n\n\nRobust representation learning under distribution shift\n\nML systems efficiency (training + inference)\n\nResearch-quality software engineering\n\nIf you’d like to chat, feel free to reach out via email or GitHub."
+  },
+  {
+    "objectID": "index.html#hi-im-alec.",
+    "href": "index.html#hi-im-alec.",
+    "title": "Home",
+    "section": "",
+    "text": "I’m a computer science student focused on machine learning systems, representation learning, and applied research.\nMy interests sit at the intersection of: - ML & statistical modeling - systems (performance, scalability, infrastructure) - real-world deployment constraints\nI’m currently: - working on research projects in ML and data-intensive systems\n- building long-horizon technical artifacts (code, papers, tools)\n- preparing for graduate-level research or frontier industry labs\nYou can find my work below.\n\n\n\n\nRobust representation learning under distribution shift\n\nML systems efficiency (training + inference)\n\nResearch-quality software engineering\n\nIf you’d like to chat, feel free to reach out via email or GitHub."
+  }
+]
